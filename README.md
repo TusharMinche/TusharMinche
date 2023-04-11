@@ -42,8 +42,3 @@ My GitHub profile is a reflection of my passion for technology and my drive to l
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/TusharMinche" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tushar_minche" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tushar-minche-0a9b51218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MincheTushar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/TusharMinche/AR-Watches" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TusharMinche&repo=AR-Try-On-Watches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
