@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tushar
 ==============================================================================================================================
 
-Aspiring AI engineer and web developer in the making
+Aspiring engineer and web developer in the making
 ----------------------------------------------------
 
 Hi there! It's great to have you here on my GitHub profile. Let me introduce myself - I'm an aspiring AI and ML engineer with a background in computer engineering. During my diploma, I gained valuable experience in C++, web development, and Android development, which have been instrumental in shaping my career path.
 
-Currently, I am pursuing a bachelor's degree in AI and ML from SPPU University. I have a keen interest in learning about new technologies and expanding my skill set. In October 2022, I participated in the Hacktoberfest 22 event organized by GitHub and DigitalOcean, where I successfully merged four pull requests. This experience was instrumental in enhancing my knowledge of open-source development and contributing to the community.
+Currently, I am pursuing a bachelor's degree in AI and ML from Savitribai Phule Pune University. I have a keen interest in learning about new technologies and expanding my skill set. In October 2022, I participated in the Hacktoberfest 22 event organized by GitHub and DigitalOcean, where I successfully merged four pull requests. This experience was instrumental in enhancing my knowledge of open-source development and contributing to the community.
 
 Apart from technology, I have a passion for finance, startups, and the stock market. In my free time, you can often find me reading about the latest news and updates in these areas. I am also exploring the field of data science and hope to apply my knowledge to solve real-world problems in the future.
 
