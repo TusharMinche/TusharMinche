@@ -14,7 +14,7 @@ My GitHub profile is a reflection of my passion for technology and my drive to l
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tusharminche@gmail.com](mailto:tusharminche@gmail.com)
-* 🧠  I'm learning Data Science
+* 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Ambitious projects
 
 ### Skills
